@@ -1,5 +1,5 @@
 # Madlibs-1
-```
+
 food1=input("Name of a food:")
 food2=input("Name of a food:")
 subject1=input("Your favourite subject:")
